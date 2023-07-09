@@ -6,6 +6,7 @@ A simple Pong game implemented using SFML (Simple and Fast Multimedia Library).
 
 ## Gameplay
 
+![Screenshot from 2023-07-09 22-32-28](https://github.com/anorak1997/Pong-v1.0/assets/28905413/b1d10d13-3418-4718-956e-bf564f091f77)
 
 The objective of the game is to survive as long as possible by hitting the ball with the paddle. The ball will bounce back and forth between the walls and the paddle. However, if the ball touches the bottom wall, the player loses a life. The game ends when the player loses all three lives.
 
